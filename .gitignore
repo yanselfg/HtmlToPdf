@@ -1,0 +1,8 @@
+/.vs/HtmlToPdf/v17/*.suo
+/.vs/HtmlToPdf/DesignTimeBuild/*.v2
+/.vs/HtmlToPdf/FileContentIndex/*.vsidx
+/.vs/ProjectEvaluation/*.bin
+/src/HtmlToPdf.WkHtmlToPdf/bin
+/src/HtmlToPdf.WkHtmlToPdf/obj
+/src/HtmlToPdf/bin
+/src/HtmlToPdf/obj
